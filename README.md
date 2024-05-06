@@ -1,2 +1,2 @@
 # mkwork
-Crea carpetas más rápido.
+Utilidad en bash para agilizar la creación de carpetas, actualmente solo crea 3 utilizadas en HackTheBox
